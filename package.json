@@ -1,0 +1,23 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikari-shirei/javascript-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikari-shirei/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/ikari-shirei/javascript-algorithms#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
