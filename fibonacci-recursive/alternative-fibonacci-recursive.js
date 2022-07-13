@@ -10,4 +10,6 @@ function alternativeFibonacciRecursive(n) {
   )
 }
 
+// Big-O O(n^2)
+
 module.exports = alternativeFibonacciRecursive
